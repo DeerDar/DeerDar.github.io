@@ -1,0 +1,78 @@
+---
+title: Blog Week 5
+layout: post
+author: rowan.campbell
+permalink: /copy-of-blog---3/
+source-id: 15-EQU7CZZX9Rl8WMsL323sQVcE-uckbCXXV-Fpi492w
+published: true
+---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Practicing our coding skills</td>
+    <td>Date</td>
+    <td>10/10/18</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>Good understanding of coding</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>Open www.codeingame.com/multiplayer/clashofcode then Play!</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? </td>
+    <td>Yes</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>How did you use your learning habits this week?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Persevering</td>
+    <td>I played several matches and I did relatively badly, so I had to persevere</td>
+  </tr>
+  <tr>
+    <td>Questioning?</td>
+    <td>Quite a lot of questioning, quite a lot of questions!</td>
+  </tr>
+  <tr>
+    <td>Independence</td>
+    <td>It was a competitive game so we didn't get much help from peers.</td>
+  </tr>
+  <tr>
+    <td>Reflecting</td>
+    <td>I looked back at what I knew already and tried to implement it into the epic gameplay</td>
+  </tr>
+  <tr>
+    <td>Engagement</td>
+    <td>Very engaging</td>
+  </tr>
+  <tr>
+    <td>What could have gone better in your learning?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>I could’ve finished more games or even done better in the ones I did, as they were quite simple questions but I didn’t get completely perfect scores</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>What changes do you need to make to improve your learning next time?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Put in more effort, do more outside of school.</td>
+    <td></td>
+  </tr>
+</table>
+
+
